@@ -20,8 +20,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '',
   HEO_HERO_TITLE_2: '大蠊国际',
   HEO_HERO_TITLE_3: 'DA LIAN GUO JI',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_4: '以人为本',
+  HEO_HERO_TITLE_5: '顾客至上，购物无忧',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
