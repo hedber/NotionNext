@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'DA LIAN JI TUAN',
   HEO_HERO_TITLE_4: '以人为本',
   HEO_HERO_TITLE_5: '顾客至上 购物无忧',
-  HEO_HERO_TITLE_LINK: 'https://notion-next-a3m93k8zp-chanjames-projects.vercel.app/article/example-1',
+  HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
