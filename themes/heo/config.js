@@ -108,8 +108,8 @@ const CONFIG = {
       img_1: '/images/heo/xueju.webp',
       color_1: '#df5b40',
       title_2: 'Rhino',
-      img_2: '/images/heo/yulinggao.webp',
-      color_2: '#1f1f1f'
+      img_2: '/images/heo/pipa.webp',
+      color_2: '#989bf8'
     }
   ],
 
