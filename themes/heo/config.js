@@ -19,7 +19,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '',
   HEO_HERO_TITLE_2: '大蠊集团',
-  HEO_HERO_TITLE_3: 'DA LIAN JI TUAN',
+  HEO_HERO_TITLE_3: 'Dalian Group',
   HEO_HERO_TITLE_4: '以人为本',
   HEO_HERO_TITLE_5: '顾客至上 购物无忧',
   HEO_HERO_TITLE_LINK: '',
